@@ -18,3 +18,6 @@ class AuthorsController < ApplicationController
   end
 
 end
+
+
+# ,  include: ['posts','posts.tags']
